@@ -17,7 +17,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/shankar-das-042713249/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-- 🌱 I’m currently learning *DSA,DBMS,OS.
+- 🌱 I’m currently learning *DSA,DBMS,OS,web Development ( java ).
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShankarDas07?tab=repositories](https://github.com/ShankarDas07?tab=repositories)
 
