@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
 - <h1 align="center">Hi 👋, I'm Shankar Das</h1>
-<h3 align="center">I am an undergraduation : Major in Computer Science</h3> 
+<h3 align="center">I am an undergraduation : Major in Information Technology (IT) </h3> 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShankarDas07&label=Profile%20views&color=0e75b6&style=flat" alt="ShankarDas07" /> </p>
